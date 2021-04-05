@@ -21,3 +21,5 @@ const weekdays = [
   "Friday",
   "Saturday",
 ];
+
+console.log('start')
